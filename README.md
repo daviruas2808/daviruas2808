@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou Davi Ruas 👋
 
-<!--
-**daviruas2808/daviruas2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+💻 Atualmente focado em:
+- Java
+- JavaScript
+- Lógica de Programação
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivo:
+Me tornar um desenvolvedor Back-end e trabalhar em projetos que gerem impacto.
+
+## Tecnologias
+
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/davi-ruas-b1413b342/
+- Email: daviruas44@gmail.com
